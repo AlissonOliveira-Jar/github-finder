@@ -18,11 +18,3 @@ p {
 a {
   text-decoration: none;
 }
-
-.barra-busca {
-  color: #000814;
-}
-
-.barra-busca::placeholder {
-  color: #555964;
-}
