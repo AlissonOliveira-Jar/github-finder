@@ -8,7 +8,7 @@ import { useState } from "react";
 
 import { BsSearch } from "react-icons/bs";
 
-import classes from "./Search.module.css"
+import classes from "./Search.module.css";
 
 
 const Search = ({loadUser}: SearchProps) => {
